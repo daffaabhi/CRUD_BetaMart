@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\bin\Debug\Beta Mart.exe.config
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\bin\Debug\Beta Mart.exe
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\bin\Debug\Beta Mart.pdb
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\obj\Debug\Beta Mart.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\obj\Debug\Beta_Mart.Form1.resources
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\obj\Debug\Beta_Mart.Properties.Resources.resources
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\obj\Debug\Beta Mart.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\obj\Debug\Beta Mart.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\obj\Debug\Beta Mart.exe
+C:\Users\HP\source\repos\Beta Mart\Beta Mart\obj\Debug\Beta Mart.pdb
